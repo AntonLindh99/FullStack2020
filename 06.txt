@@ -1,0 +1,6 @@
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+note over browser:
+Browser excecutes the JavaScript code it fetched from the server
+to send the form data
+end note
